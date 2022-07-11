@@ -8,7 +8,7 @@ The installation steps of Ubuntu 20.04.4 and ROS
 
 3-After installing VirtualBox, click New to make a new virtual machine.
 
-4-Type *Ubuntu* in the field `Name`.
+4-Type **Ubuntu** in the field `Name`.
 
 5-Set the `type` to `Linux`, and `version` to `Ubuntu (64-bit)` then click Next.
 
