@@ -8,9 +8,9 @@ The installation steps of Ubuntu 20.04.4 and ROS
 
 3-After installing VirtualBox, click New to make a new virtual machine.
 
-4-Type Ubuntu in the field 'Name'.
+4-Type Ubuntu in the field `Name`.
 
-5-Set the 'type' to 'Linux', and 'version' to 'Ubuntu (64-bit)' then click Next.
+5-Set the `type` to `Linux`, and `version` to `Ubuntu (64-bit)` then click Next.
 
 6-Set the Memory size to the end of the green bar and click Next.
 
@@ -20,11 +20,11 @@ The installation steps of Ubuntu 20.04.4 and ROS
 
 9-After launching the virtual machine, click browse and choose the Ubuntu image then click Start.
 
-10-Click  'Install Ubuntu' then continue and wait until the installation is finished.
+10-Click  `Install Ubuntu` then continue and wait until the installation is finished.
 
 
 ## ROS Noetic Installation steps:
-1-We should allow Ubuntu repositories (universe,multiverse,restricted). To do that, open new terminal the enter the following commands:
+1-We should allow Ubuntu repositories (`universe`,`multiverse`,`restricted`). To do that, open new terminal the enter the following commands:
 ```
 sudo add-apt-repository universe
 ```
