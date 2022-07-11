@@ -3,6 +3,7 @@ The installation steps of Ubuntu 20.04.4 and ROS
 
 ## Ubuntu 20.04.4 Installation steps:
 1-Download Ubuntu 20.04.4 LTS Desktop Image from this URL: https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso
+
 2-Download and install VirtualBox.
 
 3-After installing VirtualBox, click New to make a new virtual machine.
