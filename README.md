@@ -24,7 +24,7 @@ The installation steps of Ubuntu 20.04.4 and ROS
 
 
 ## ROS Noetic Installation steps:
-1-We should allow Ubuntu repositories (`universe`,`multiverse`,`restricted`). To do that, open new terminal the enter the following commands:
+1-We should allow Ubuntu repositories (`universe`,`multiverse`,`restricted`). To do that, open new terminal then enter the following commands:
 ```
 sudo add-apt-repository universe
 ```
